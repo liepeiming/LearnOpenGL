@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"xlocale": "cpp",
+			"system_error": "cpp",
+			"xtr1common": "cpp",
+			"xstring": "cpp",
+			"utility": "cpp",
+			"cmath": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"cwchar": "cpp",
+			"exception": "cpp",
+			"fstream": "cpp",
+			"initializer_list": "cpp",
+			"ios": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"string": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp",
+			"xfacet": "cpp",
+			"xiosbase": "cpp",
+			"xlocinfo": "cpp",
+			"xlocnum": "cpp",
+			"xmemory0": "cpp",
+			"xstddef": "cpp",
+			"xutility": "cpp"
+		}
+	}
+}
